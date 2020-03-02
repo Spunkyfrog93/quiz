@@ -1,1 +1,1 @@
-# quiz
+I created a quiz using Javascript. My motivation was to combine things we have learned so far in class into the project, and to have fun while doing it. I built this project to show my knowledge of Javascript and the past few weeks of learning. This project should stand out because it has a tracking bar for the questions you answer and gives you green colors for correct answers and red for incorrect answers. Then shows you a total percentage at the end.
